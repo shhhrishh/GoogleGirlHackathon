@@ -1,1 +1,1 @@
-# GoogleGirlHackathon
+All individual tasks have been completed in separate files; however, integrating them posed challenges due to time constraints. To address this, we opted to run all models in Google Colab for streamlined management and utilize Visual Studio Code (VS Code) for the .cpp file, ensuring efficient processing and analysis on the desired dataset. Subsequently, we plan to integrate these components to develop a comprehensive disaster relief web application, leveraging the strengths of each tool for optimal functionality and user experience.
